@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projects\\NET\\CleanArchitecture\\CleanArch.Mvc\\CleanArch.Mvc.csproj": {}
+    "D:\\Projects\\NET\\CleanArchitecture\\CleanArch.Mvc\\CleanArch.Mvc.csproj": {}
   },
   "projects": {
-    "d:\\Projects\\NET\\CleanArchitecture\\CleanArch.Mvc\\CleanArch.Mvc.csproj": {
+    "D:\\Projects\\NET\\CleanArchitecture\\CleanArch.Mvc\\CleanArch.Mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projects\\NET\\CleanArchitecture\\CleanArch.Mvc\\CleanArch.Mvc.csproj",
+        "projectUniqueName": "D:\\Projects\\NET\\CleanArchitecture\\CleanArch.Mvc\\CleanArch.Mvc.csproj",
         "projectName": "CleanArch.Mvc",
-        "projectPath": "d:\\Projects\\NET\\CleanArchitecture\\CleanArch.Mvc\\CleanArch.Mvc.csproj",
+        "projectPath": "D:\\Projects\\NET\\CleanArchitecture\\CleanArch.Mvc\\CleanArch.Mvc.csproj",
         "packagesPath": "C:\\Users\\erdem\\.nuget\\packages\\",
-        "outputPath": "d:\\Projects\\NET\\CleanArchitecture\\CleanArch.Mvc\\obj\\",
+        "outputPath": "D:\\Projects\\NET\\CleanArchitecture\\CleanArch.Mvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

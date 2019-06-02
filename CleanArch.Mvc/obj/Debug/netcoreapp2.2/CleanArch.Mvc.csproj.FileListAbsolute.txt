@@ -1,4 +1,3 @@
-d:\Projects\NET\CleanArchitecture\CleanArch.Mvc\bin\Debug\netcoreapp2.2\app.db
 d:\Projects\NET\CleanArchitecture\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Mvc.deps.json
 d:\Projects\NET\CleanArchitecture\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Mvc.runtimeconfig.json
 d:\Projects\NET\CleanArchitecture\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Mvc.runtimeconfig.dev.json
