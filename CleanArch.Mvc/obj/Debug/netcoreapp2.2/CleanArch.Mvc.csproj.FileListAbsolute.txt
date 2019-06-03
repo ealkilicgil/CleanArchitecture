@@ -27,10 +27,10 @@ d:\Projects\NET\CleanArchitecture\CleanArch.Mvc\obj\Debug\netcoreapp2.2\Razor\Vi
 d:\Projects\NET\CleanArchitecture\CleanArch.Mvc\obj\Debug\netcoreapp2.2\CleanArch.Mvc.RazorTargetAssemblyInfo.cache
 d:\Projects\NET\CleanArchitecture\CleanArch.Mvc\obj\Debug\netcoreapp2.2\CleanArch.Mvc.RazorTargetAssemblyInfo.cs
 d:\Projects\NET\CleanArchitecture\CleanArch.Mvc\obj\Debug\netcoreapp2.2\CleanArch.Mvc.Views.pdb
+d:\Projects\NET\CleanArchitecture\CleanArch.Mvc\obj\Debug\netcoreapp2.2\CleanArch.Mvc.csproj.CopyComplete
 d:\Projects\NET\CleanArchitecture\CleanArch.Mvc\obj\Debug\netcoreapp2.2\CleanArch.Mvc.dll
 d:\Projects\NET\CleanArchitecture\CleanArch.Mvc\obj\Debug\netcoreapp2.2\CleanArch.Mvc.pdb
-d:\Projects\NET\CleanArchitecture\CleanArch.Mvc\obj\Debug\netcoreapp2.2\CleanArch.Mvc.csproj.CopyComplete
-d:\Projects\NET\CleanArchitecture\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Domain.dll
-d:\Projects\NET\CleanArchitecture\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Infra.Data.dll
-d:\Projects\NET\CleanArchitecture\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Infra.Data.pdb
-d:\Projects\NET\CleanArchitecture\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Domain.pdb
+D:\Projects\NET\CleanArchitecture\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Domain.dll
+D:\Projects\NET\CleanArchitecture\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Infra.Data.dll
+D:\Projects\NET\CleanArchitecture\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Infra.Data.pdb
+D:\Projects\NET\CleanArchitecture\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Domain.pdb

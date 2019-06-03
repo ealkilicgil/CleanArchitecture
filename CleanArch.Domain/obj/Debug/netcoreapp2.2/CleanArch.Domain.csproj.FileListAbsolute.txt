@@ -1,0 +1,8 @@
+D:\Projects\NET\CleanArchitecture\CleanArch.Domain\bin\Debug\netcoreapp2.2\CleanArch.Domain.deps.json
+D:\Projects\NET\CleanArchitecture\CleanArch.Domain\bin\Debug\netcoreapp2.2\CleanArch.Domain.dll
+D:\Projects\NET\CleanArchitecture\CleanArch.Domain\bin\Debug\netcoreapp2.2\CleanArch.Domain.pdb
+D:\Projects\NET\CleanArchitecture\CleanArch.Domain\obj\Debug\netcoreapp2.2\CleanArch.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\NET\CleanArchitecture\CleanArch.Domain\obj\Debug\netcoreapp2.2\CleanArch.Domain.AssemblyInfoInputs.cache
+D:\Projects\NET\CleanArchitecture\CleanArch.Domain\obj\Debug\netcoreapp2.2\CleanArch.Domain.AssemblyInfo.cs
+D:\Projects\NET\CleanArchitecture\CleanArch.Domain\obj\Debug\netcoreapp2.2\CleanArch.Domain.dll
+D:\Projects\NET\CleanArchitecture\CleanArch.Domain\obj\Debug\netcoreapp2.2\CleanArch.Domain.pdb

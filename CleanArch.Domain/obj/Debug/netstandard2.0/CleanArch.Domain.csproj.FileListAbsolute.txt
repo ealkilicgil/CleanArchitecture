@@ -1,9 +1,0 @@
-d:\Projects\NET\CleanArchitecture\CleanArch.Domain\bin\Debug\netstandard2.0\CleanArch.Domain.deps.json
-d:\Projects\NET\CleanArchitecture\CleanArch.Domain\bin\Debug\netstandard2.0\CleanArch.Domain.dll
-d:\Projects\NET\CleanArchitecture\CleanArch.Domain\bin\Debug\netstandard2.0\CleanArch.Domain.pdb
-d:\Projects\NET\CleanArchitecture\CleanArch.Domain\obj\Debug\netstandard2.0\CleanArch.Domain.csprojAssemblyReference.cache
-d:\Projects\NET\CleanArchitecture\CleanArch.Domain\obj\Debug\netstandard2.0\CleanArch.Domain.csproj.CoreCompileInputs.cache
-d:\Projects\NET\CleanArchitecture\CleanArch.Domain\obj\Debug\netstandard2.0\CleanArch.Domain.AssemblyInfoInputs.cache
-d:\Projects\NET\CleanArchitecture\CleanArch.Domain\obj\Debug\netstandard2.0\CleanArch.Domain.AssemblyInfo.cs
-d:\Projects\NET\CleanArchitecture\CleanArch.Domain\obj\Debug\netstandard2.0\CleanArch.Domain.dll
-d:\Projects\NET\CleanArchitecture\CleanArch.Domain\obj\Debug\netstandard2.0\CleanArch.Domain.pdb
