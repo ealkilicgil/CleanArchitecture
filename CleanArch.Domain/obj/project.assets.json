@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\erdem\\.nuget\\packages\\": {},
+    "C:\\Users\\02481552\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\NET\\CleanArchitecture\\CleanArch.Domain\\CleanArch.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\02481552\\Documents\\GitHub\\CleanArchitecture\\CleanArch.Domain\\CleanArch.Domain.csproj",
       "projectName": "CleanArch.Domain",
-      "projectPath": "D:\\Projects\\NET\\CleanArchitecture\\CleanArch.Domain\\CleanArch.Domain.csproj",
-      "packagesPath": "C:\\Users\\erdem\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\NET\\CleanArchitecture\\CleanArch.Domain\\obj\\",
+      "projectPath": "C:\\Users\\02481552\\Documents\\GitHub\\CleanArchitecture\\CleanArch.Domain\\CleanArch.Domain.csproj",
+      "packagesPath": "C:\\Users\\02481552\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\02481552\\Documents\\GitHub\\CleanArchitecture\\CleanArch.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\erdem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\02481552\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
